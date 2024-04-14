@@ -1,0 +1,42 @@
+ 2023 Sep 1;192(9):1432-1448. doi: 10.1093/aje/kwad094.
+
+Interactions of Nonsteroidal Antiinflammatory Drugs and Aspirin and Risk of 
+Cardiovascular Disease in Patients With Osteoarthritis.
+
+Wei J, Zeng C, Lane NE, Li X, Lei G, Zhang Y.
+
+Comment in
+    Am J Epidemiol. 2023 Sep 1;192(9):1449-1451.
+    Am J Epidemiol. 2023 Sep 1;192(9):1452.
+
+Nonsteroidal antiinf lammatory drugs (NSAIDs) remain the mainstay of the 
+pharmacologic management for relieving osteoarthritis pain, and low-dose aspirin 
+is often prescribed to osteoarthritis patients who are at high risk of 
+cardiovascular disease (CVD). We conducted cohort studies using data from The 
+Health Improvement Network (THIN) database (2000-2019) to assess whether the 
+relationship of initiation of naproxen or ibuprofen vs. initiation of other 
+NSAIDs (excluding both naproxen and ibuprofen), respectively, to the risk of CVD 
+was modified by coprescription of low-dose aspirin among the participants with 
+osteoarthritis. Among participants without coprescription of aspirin, the risk 
+of CVD was lower in naproxen initiators (10.3/1000 person-years) than in other 
+NSAIDs initiators (13.2/1000 person-years; hazard ratio = 0.71, 95% confidence 
+interval: 0.60, 0.85). Among participants with coprescription of aspirin, 
+however, the risk of CVD was higher among naproxen initiators (36.9/1000 
+person-years) than that among other NSAIDs initiators (34.8/1000 person-years; 
+hazard ratio = 1.48, 95% confidence interval: 1.12, 1.84). The association was 
+significantly modified by coprescription of aspirin (P < 0.001). Similar 
+findings were observed in the association of initiation of ibuprofen vs. other 
+NSAIDs with the risk of CVD, which was significantly modified by coprescription 
+of aspirin (P < 0.001). These findings suggest that osteoarthritis patients and 
+clinicians should be aware of the potential CVD risk of concurrently taking 
+naproxen or ibuprofen and low-dose aspirin.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwad094
+PMID: 37073405 [Indexed for MEDLINE]
+
+
+24

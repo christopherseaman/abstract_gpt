@@ -1,0 +1,43 @@
+ 2022 Sep 28;191(10):1776-1780. doi: 10.1093/aje/kwac099.
+
+Invited Commentary: Mechanistic and Biologically Based Models in Epidemiology-A 
+Powerful Underutilized Tool.
+
+Meza R, Jeon J.
+
+Comment in
+    Am J Epidemiol. 2022 Sep 28;191(10):1781-1782.
+
+Comment on
+    Am J Epidemiol. 2022 Sep 28;191(10):1766-1775.
+
+Mechanistic and biologically based mathematical models of chronic and behavioral 
+disease processes aim to capture the main mechanistic or biological features of 
+the disease development and to connect these with epidemiologic outcomes. These 
+approaches have a long history in epidemiologic research and are complementary 
+to traditional epidemiologic or statistical approaches to investigate the role 
+of risk factor exposures on disease risk. Simonetto et al. (Am J Epidemiol. 
+2022;191(10):1766-1775) present a mechanistic, process-oriented model to 
+investigate the role of smoking, hypertension, and dyslipidemia in the 
+development of atherosclerotic lesions and their progression to myocardial 
+infarction. Their approach builds on and brings to cardiovascular disease the 
+ideas and perspectives of earlier mechanistic and biologically based models for 
+the epidemiology of cancer and other chronic diseases, providing important 
+insights into the mechanisms and epidemiology of smoking related myocardial 
+infarction. We argue that although mechanistic modeling approaches have 
+demonstrated their value and place in epidemiology, they are highly 
+underutilized. We call for efforts to grow mechanistic and biologically based 
+modeling research, expertise, and awareness in epidemiology, including the 
+development of training and collaboration opportunities to attract more students 
+and researchers from science, technology, engineering, and medical field into 
+the epidemiology field.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwac099
+PMID: 35650016 [Indexed for MEDLINE]
+
+
+38

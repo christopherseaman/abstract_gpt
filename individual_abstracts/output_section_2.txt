@@ -1,0 +1,35 @@
+ 2022 Jun 27;191(7):1174-1179. doi: 10.1093/aje/kwac056.
+
+On the Need to Revitalize Descriptive Epidemiology.
+
+Fox MP, Murray EJ, Lesko CR, Sealy-Jefferson S.
+
+Nearly every introductory epidemiology course begins with a focus on person, 
+place, and time, the key components of descriptive epidemiology. And yet in our 
+experience, introductory epidemiology courses were the last time we spent any 
+significant amount of training time focused on descriptive epidemiology. This 
+gave us the impression that descriptive epidemiology does not suffer from bias 
+and is less impactful than causal epidemiology. Descriptive epidemiology may 
+also suffer from a lack of prestige in academia and may be more difficult to 
+fund. We believe this does a disservice to the field and slows progress towards 
+goals of improving population health and ensuring equity in health. The severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) outbreak and subsequent 
+coronavirus disease 2019 pandemic have highlighted the importance of descriptive 
+epidemiology in responding to serious public health crises. In this commentary, 
+we make the case for renewed focus on the importance of descriptive epidemiology 
+in the epidemiology curriculum using SARS-CoV-2 as a motivating example. The 
+framework for error we use in etiological research can be applied in descriptive 
+research to focus on both systematic and random error. We use the current 
+pandemic to illustrate differences between causal and descriptive epidemiology 
+and areas where descriptive epidemiology can have an important impact.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwac056
+PMCID: PMC9383568
+PMID: 35325036 [Indexed for MEDLINE]
+
+
+3

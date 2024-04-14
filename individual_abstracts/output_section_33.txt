@@ -1,0 +1,35 @@
+ 2023 Jan 6;192(1):11-24. doi: 10.1093/aje/kwac169.
+
+The Impact of COVID-19 on the All of Us Research Program.
+
+Hedden SL, McClain J, Mandich A, Baskir R, Caulder MS, Denny JC, Hamlet MRJ, 
+Prabhu Das I, McNeil Ford N, Lopez-Class M, Elmi A, Wallace R, Linkie A, 
+Garriock HA.
+
+The All of Us Research Program, a health and genetics epidemiologic data 
+collection program, has been substantially affected by the coronavirus disease 
+2019 (COVID-19) pandemic. Although the program is highly digital in nature, 
+certain aspects of the data collection require in-person interaction between 
+staff and participants. Before the pandemic, the program was enrolling 
+approximately 12,500 participants per month at more than 400 clinical sites. In 
+March 2020, because of the pandemic, all in-person activity at program sites and 
+by engagement partners was paused to develop processes and procedures for 
+in-person activities that incorporated strict safety protocols. In addition, the 
+program adopted new data collection methodologies to reduce the need for 
+in-person activities. Through February 2022, a total of 224 clinical sites had 
+reactivated in-person activity, and all enrollment and engagement partners have 
+adopted new data collection methods that can be used remotely. As the COVID-19 
+pandemic persists, the program continues to require safety procedures for 
+in-person activity and continues to generate and pilot methodologies that reduce 
+risk and make it easier for participants to provide information.
+
+Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg 
+School of Public Health 2022. This work is written by (a) US Government 
+employee(s) and is in the public domain in the US.
+
+DOI: 10.1093/aje/kwac169
+PMCID: PMC10144611
+PMID: 36205043 [Indexed for MEDLINE]
+
+
+34

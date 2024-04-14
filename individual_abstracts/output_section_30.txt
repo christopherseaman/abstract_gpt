@@ -1,0 +1,37 @@
+ 2022 Jul 23;191(8):1429-1443. doi: 10.1093/aje/kwac075.
+
+Relationship Between Level of American Football Playing and Diagnosis of Chronic 
+Traumatic Encephalopathy in a Selection Bias Analysis.
+
+LeClair J, Weuve J, Fox MP, Mez J, Alosco ML, Nowinski C, McKee A, Tripodis Y.
+
+Chronic traumatic encephalopathy (CTE) is a neurodegenerative disease associated 
+with exposure to repetitive head impacts such as those from American football. 
+Our understanding of this association is based on research in autopsied brains, 
+since CTE can only be diagnosed postmortem. Such studies are susceptible to 
+selection bias, which needs to be accounted for to ensure a generalizable 
+estimate of the association between repetitive head impacts and CTE. We 
+evaluated the relationship between level of American football playing and CTE 
+diagnosis after adjusting for selection bias. The sample included 290 deceased 
+male former American football players who donated their brains to the Veterans 
+Affairs-Boston University-Concussion Legacy Foundation (VA-BU-CLF) Brain Bank 
+between 2008 and 2019. After adjustment for selection bias, college-level and 
+professional football players had 2.38 (95% simulation interval (SI): 1.16, 
+5.94) and 2.47 (95% SI: 1.46, 4.79) times the risk of being diagnosed with CTE 
+as high-school-level players, respectively; these estimates are larger than 
+estimates with no selection bias adjustment. Since CTE is currently diagnosed 
+only postmortem, we additionally provide plausible scenarios for CTE risk ratios 
+for each level of play during the former players' lifetime. This study provides 
+further evidence to support a dose-response relationship between American 
+football playing and CTE.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwac075
+PMCID: PMC9989358
+PMID: 35434739 [Indexed for MEDLINE]
+
+
+31

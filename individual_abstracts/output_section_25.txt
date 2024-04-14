@@ -1,0 +1,40 @@
+ 2023 May 5;192(5):800-811. doi: 10.1093/aje/kwad025.
+
+Use of Correct and Incorrect Methods of Accounting for Age in Studies of 
+Epigenetic Accelerated Aging: Implications and Recommendations for Best 
+Practices.
+
+Krieger N, Chen JT, Testa C, Diez Roux A, Tilling K, Watkins S, Simpkin AJ, 
+Suderman M, Davey Smith G, De Vivo I, Waterman PD, Relton C.
+
+Motivated by our conduct of a literature review on social exposures and 
+accelerated aging as measured by a growing number of epigenetic "clocks" (which 
+estimate age via DNA methylation (DNAm) patterns), we report on 3 different 
+approaches in the epidemiologic literature-1 incorrect and 2 correct-on the 
+treatment of age in these and other studies using other common exposures (i.e., 
+body mass index and alcohol consumption). Among the 50 empirical articles 
+reviewed, the majority (n = 29; 58%) used the incorrect method of analyzing 
+accelerated aging detrended for age as the outcome and did not control for age 
+as a covariate. By contrast, only 42% used correct methods, which are either to 
+analyze accelerated aging detrended for age as the outcome and control for age 
+as a covariate (n = 16; 32%) or to analyze raw DNAm age as the outcome and 
+control for age as a covariate (n = 5; 10%). In accord with prior demonstrations 
+of bias introduced by use of the incorrect approach, we provide simulation 
+analyses and additional empirical analyses to illustrate how the incorrect 
+method can lead to bias towards the null, and we discuss implications for extant 
+research and recommendations for best practices.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. This is an Open Access article 
+distributed under the terms of the Creative Commons Attribution Non-Commercial 
+License (https://creativecommons.org/licenses/by-nc/4.0), which permits 
+non-commercial re-use, distribution, and reproduction in any medium, provided 
+the original work is properly cited. For commercial re-use, please contact 
+journalpermissions@oup.com.
+
+DOI: 10.1093/aje/kwad025
+PMCID: PMC10160768
+PMID: 36721372 [Indexed for MEDLINE]
+
+
+26

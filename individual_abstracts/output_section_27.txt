@@ -1,0 +1,32 @@
+ 2022 Sep 28;191(10):1813-1819. doi: 10.1093/aje/kwac103.
+
+Interaction Contrasts and Collider Bias.
+
+Mansournia MA, Nazemipour M, Etminan M.
+
+Previous papers have mentioned that conditioning on a binary collider would 
+introduce an association between its causes in at least 1 stratum. In this 
+paper, we prove this statement and, along with intuitions, formally examine the 
+direction and magnitude of the associations between 2 risk factors of a binary 
+collider using interaction contrasts. Among level one of the collider, 2 
+variables are independent, positively associated, and negatively associated if 
+multiplicative risk interaction contrast is equal to, more than, and less than 
+0, respectively; the same results hold for the other level of the collider if 
+the multiplicative survival interaction contrast, equal to multiplicative risk 
+interaction contrast minus the additive risk interaction contrast, is compared 
+with 0. The strength of the association depends on the magnitude of the 
+interaction contrast: The stronger the interaction is, the larger the magnitude 
+of the association will be. However, the common conditional odds ratio under the 
+homogeneity assumption will be bounded. A figure is presented that succinctly 
+illustrates our results and helps researchers to better visualize the 
+associations introduced upon conditioning on a collider.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwac103
+PMID: 35689644 [Indexed for MEDLINE]
+
+
+28

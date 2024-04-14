@@ -1,0 +1,36 @@
+ 2022 Oct 20;191(11):1847-1855. doi: 10.1093/aje/kwac114.
+
+Violence in the Great Recession.
+
+Santaularia NJ, Osypuk TL, Ramirez MR, Mason SM.
+
+Substantial evidence suggests that economic hardship causes violence. However, a 
+large majority of this research relies on observational studies that use 
+traditional violence surveillance systems that suffer from selection bias and 
+over-represent vulnerable populations, such as people of color. To overcome 
+limitations of prior work, we employed a quasi-experimental design to assess the 
+impact of the Great Recession on explicit violence diagnoses (injuries 
+identified to be caused by a violent event) and proxy violence diagnoses 
+(injuries highly correlated with violence) for child maltreatment, intimate 
+partner violence, elder abuse, and their combination. We used Minnesota hospital 
+data (2004-2014), conducting a difference-in-differences analysis at the county 
+level (n = 86) using linear regression to compare changes in violence rates from 
+before the recession (2004-2007) to after the recession (2008-2014) in counties 
+most affected by the recession, versus changes over the same time period in 
+counties less affected by the recession. The findings suggested that the Great 
+Recession had little or no impact on explicitly identified violence; however, it 
+affected proxy-identified violence. Counties that were more highly affected by 
+the Great Recession saw a greater increase in the average rate of 
+proxy-identified child abuse, elder abuse, intimate partner violence, and 
+combined violence when compared with less-affected counties.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwac114
+PMCID: PMC10144667
+PMID: 35767881 [Indexed for MEDLINE]
+
+
+37

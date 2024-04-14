@@ -1,0 +1,31 @@
+ 2023 Nov 3;192(11):1904-1916. doi: 10.1093/aje/kwad107.
+
+Deep Learning for Epidemiologists: An Introduction to Neural Networks.
+
+Serghiou S, Rough K.
+
+Deep learning methods are increasingly being applied to problems in medicine and 
+health care. However, few epidemiologists have received formal training in these 
+methods. To bridge this gap, this article introduces the fundamentals of deep 
+learning from an epidemiologic perspective. Specifically, this article reviews 
+core concepts in machine learning (e.g., overfitting, regularization, and 
+hyperparameters); explains several fundamental deep learning architectures 
+(convolutional neural networks, recurrent neural networks); and summarizes 
+training, evaluation, and deployment of models. Conceptual understanding of 
+supervised learning algorithms is the focus of the article; instructions on the 
+training of deep learning models and applications of deep learning to causal 
+learning are out of this article's scope. We aim to provide an accessible first 
+step towards enabling the reader to read and assess research on the medical 
+applications of deep learning and to familiarize readers with deep learning 
+terminology and concepts to facilitate communication with computer scientists 
+and machine learning engineers.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwad107
+PMID: 37139570 [Indexed for MEDLINE]
+
+
+21

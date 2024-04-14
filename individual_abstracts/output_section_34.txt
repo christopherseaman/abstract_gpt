@@ -1,0 +1,40 @@
+ 2023 Jun 2;192(6):972-986. doi: 10.1093/aje/kwad035.
+
+Design and Implementation of the All of Us Research Program COVID-19 Participant 
+Experience (COPE) Survey.
+
+Schulkey CE, Litwin TR, Ellsworth G, Sansbury H, Ahmedani BK, Choi KW, Cronin 
+RM, Kloth Y, Ashbeck AW, Sutherland S, Mapes BM, Begale M, Bhat G, King P, 
+Marginean K, Wolfe KA, Kouame A, Raquel C, Ratsimbazafy F, Bornemeier Z, 
+Neumeier K, Baskir R, Gebo KA, Denny J, Smoller JW, Garriock HA.
+
+In response to the rapidly evolving coronavirus disease 2019 (COVID-19) 
+pandemic, the All of Us Research Program longitudinal cohort study developed the 
+COVID-19 Participant Experience (COPE) survey to better understand the pandemic 
+experiences and health impacts of COVID-19 on diverse populations within the 
+United States. Six survey versions were deployed between May 2020 and March 
+2021, covering mental health, loneliness, activity, substance use, and 
+discrimination, as well as COVID-19 symptoms, testing, treatment, and 
+vaccination. A total of 104,910 All of Us Research Program participants, of whom 
+over 73% were from communities traditionally underrepresented in biomedical 
+research, completed 275,201 surveys; 9,693 completed all 6 surveys. Response 
+rates varied widely among demographic groups and were lower among participants 
+from certain racial and ethnic minority populations, participants with low 
+income or educational attainment, and participants with a Spanish language 
+preference. Survey modifications improved participant response rates between the 
+first and last surveys (13.9% to 16.1%, P < 0.001). This paper describes a data 
+set with longitudinal COVID-19 survey data in a large, diverse population that 
+will enable researchers to address important questions related to the pandemic, 
+a data set that is of additional scientific value when combined with the 
+program's other data sources.
+
+© Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg 
+School of Public Health 2023. This work is written by (a) US Government 
+employee(s) and is in the public domain in the US.
+
+DOI: 10.1093/aje/kwad035
+PMCID: PMC10505411
+PMID: 36799620 [Indexed for MEDLINE]
+
+
+35

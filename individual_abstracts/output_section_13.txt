@@ -1,0 +1,33 @@
+ 2023 Apr 6;192(4):658-664. doi: 10.1093/aje/kwad007.
+
+Toward Open and Reproducible Epidemiology.
+
+Mathur MB, Fox MP.
+
+Starting in the 2010s, researchers in the experimental social sciences rapidly 
+began to adopt increasingly open and reproducible scientific practices. These 
+practices include publicly sharing deidentified data when possible, sharing 
+analytical code, and preregistering study protocols. Empirical evidence from the 
+social sciences suggests such practices are feasible, can improve analytical 
+reproducibility, and can reduce selective reporting. In academic epidemiology, 
+adoption of open-science practices has been slower than in the social sciences 
+(with some notable exceptions, such as registering clinical trials). 
+Epidemiologic studies are often large, complex, conceived after data have 
+already been collected, and difficult to replicate directly by collecting new 
+data. These characteristics make it especially important to ensure their 
+integrity and analytical reproducibility. Open-science practices can also pay 
+immediate dividends to researchers' own work by clarifying scientific reasoning 
+and encouraging well-documented, organized workflows. We consider how 
+established epidemiologists and early-career researchers alike can help midwife 
+a culture of open science in epidemiology through their research practices, 
+mentorship, and editorial activities.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health.
+
+DOI: 10.1093/aje/kwad007
+PMCID: PMC10089067
+PMID: 36627249 [Indexed for MEDLINE]
+
+
+14

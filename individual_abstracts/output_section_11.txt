@@ -1,0 +1,34 @@
+ 2023 Nov 3;192(11):1801-1805. doi: 10.1093/aje/kwac071.
+
+Total Energy Intake: Implications for Epidemiologic Analyses.
+
+McCullough LE, Byrd DA.
+
+In 1986, Willett and Stampfer (Am J Epidemiol. 1986;124(1):17-27) propelled the 
+nutritional epidemiology field forward by publishing a commentary emphasizing 
+the importance of analyzing diet in relation to total energy intake in 
+epidemiologic analyses of diet and disease, detailing the value of accounting 
+for body size, physical activity, and metabolic efficiency in diet-disease 
+analyses via energy intake adjustment. Their publication has since been cited 
+over 2,886 times and has inarguably advanced methodology for studying 
+diet-disease associations, with most nutritional epidemiology studies standardly 
+including some form of energy adjustment. However, there remains debate 
+regarding the best scenarios and methods for energy adjustment. The goals of 
+this commentary are to provide an updated review on factors that account for 
+interindividual differences in energy intake, provide a balanced discussion 
+regarding the considerations for or against adjustment for energy intake, and 
+provide an updated examination of the commonly employed methods for the analysis 
+of nutrient-disease associations. The principles of energy adjustment continue 
+to be relevant nearly 25 years later, as it remains a critical method to account 
+for potentially confounding interindividual variations in body size and physical 
+activity.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwac071
+PMID: 35419586 [Indexed for MEDLINE]
+
+
+12

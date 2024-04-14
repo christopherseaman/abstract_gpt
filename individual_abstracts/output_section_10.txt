@@ -1,0 +1,43 @@
+ 2023 Aug 4;192(8):1249-1263. doi: 10.1093/aje/kwad071.
+
+The Environmental Influences on Child Health Outcomes (ECHO)-Wide Cohort.
+
+Knapp EA, Kress AM, Parker CB, Page GP, McArthur K, Gachigi KK, Alshawabkeh AN, 
+Aschner JL, Bastain TM, Breton CV, Bendixsen CG, Brennan PA, Bush NR, Buss C, 
+Camargo CA Jr, Catellier D, Cordero JF, Croen L, Dabelea D, Deoni S, D'Sa V, 
+Duarte CS, Dunlop AL, Elliott AJ, Farzan SF, Ferrara A, Ganiban JM, Gern JE, 
+Giardino AP, Towe-Goodman NR, Gold DR, Habre R, Hamra GB, Hartert T, Herbstman 
+JB, Hertz-Picciotto I, Hipwell AE, Karagas MR, Karr CJ, Keenan K, Kerver JM, 
+Koinis-Mitchell D, Lau B, Lester BM, Leve LD, Leventhal B, LeWinn KZ, Lewis J, 
+Litonjua AA, Lyall K, Madan JC, McEvoy CT, McGrath M, Meeker JD, Miller RL, 
+Morello-Frosch R, Neiderhiser JM, O'Connor TG, Oken E, O'Shea M, Paneth N, 
+Porucznik CA, Sathyanarayana S, Schantz SL, Spindel ER, Stanford JB, Stroustrup 
+A, Teitelbaum SL, Trasande L, Volk H, Wadhwa PD, Weiss ST, Woodruff TJ, Wright 
+RJ, Zhao Q, Jacobson LP, Influences On Child Health Outcomes OBOPCFE.
+
+The Environmental Influences on Child Health Outcomes (ECHO)-Wide Cohort Study 
+(EWC), a collaborative research design comprising 69 cohorts in 31 consortia, 
+was funded by the National Institutes of Health (NIH) in 2016 to improve 
+children's health in the United States. The EWC harmonizes extant data and 
+collects new data using a standardized protocol, the ECHO-Wide Cohort Data 
+Collection Protocol (EWCP). EWCP visits occur at least once per life stage, but 
+the frequency and timing of the visits vary across cohorts. As of March 4, 2022, 
+the EWC cohorts contributed data from 60,553 children and consented 29,622 
+children for new EWCP data and biospecimen collection. The median (interquartile 
+range) age of EWCP-enrolled children was 7.5 years (3.7-11.1). Surveys, 
+interviews, standardized examinations, laboratory analyses, and medical record 
+abstraction are used to obtain information in 5 main outcome areas: pre-, peri-, 
+and postnatal outcomes; neurodevelopment; obesity; airways; and positive health. 
+Exposures include factors at the level of place (e.g., air pollution, 
+neighborhood socioeconomic status), family (e.g., parental mental health), and 
+individuals (e.g., diet, genomics).
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health.
+
+DOI: 10.1093/aje/kwad071
+PMCID: PMC10403303
+PMID: 36963379 [Indexed for MEDLINE]
+
+
+11
