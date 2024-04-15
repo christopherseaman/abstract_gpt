@@ -52,7 +52,7 @@
    - Up to 5 non-digit characters, followed by the the upper limit of the 95% confidence interval.
 
 7. **`\)`**
-   - Matches a closing parenthesis, suggesting that the confidence interval is enclosed in parentheses.
+   - Matches a closing parenthesis, requiring that confidence intervals are enclosed in parentheses.
 
 ### Usage
 This regex is tailored to extract numbers associated with a 95% confidence interval from scientific texts, which are formatted in a specific way. For instance, it would match expressions like "123.45 - 95% CI 100,123.67 - 150,200.89)" and extract:
@@ -71,4 +71,29 @@ This regex is tailored to extract numbers associated with a 95% confidence inter
 - **Implement Error Handling:** Add try-except blocks to manage exceptions, ensuring the script can handle unexpected issues gracefully.
 - **Increase Flexibility:** Allow directory and output file paths to be parameters, enhancing the script's usability across different environments and use cases.
 
-## Alternative Approach - NLP Using ChatGPT via API
+## Alternative Approach - NLP using ChatGPT via API
+Included is an example of how this could work in `extract_openai.py`.
+
+### Code Summary
+1. **Setup:** Loads libraries and API key from file `dot.env`
+2. **Define Structure:** Creates a function for getting structured data back from OpenAI
+3. **API Call:** Sends an example abstract to the API, storing the response
+4. **Response Handling:** Parses the response to output the PMID, date, metric, point estimate, CI lower, and CI upper bounds
+
+### Steps Left to Operationalize
+1. **API Key Config** Add your own openai API key to the file `dot.env` (see `dot.env.example` for format)
+2. **Abstract Handling:** Update the code to iterate over abstracts, rather than using a single hard-coded example
+3. **Storing Output** Output to a csv file instead of stdout
+
+### Example Output
+
+| PMID     | Publication Date | Metric                                                                    | Point Estimate | CI Lower | CI Upper |
+|----------|------------------|---------------------------------------------------------------------------|----------------|----------|----------|
+| 36345076 | 2023 Feb 1       | Prevalence of vision impairment among adults with PN                      | 3.89           | 2.99     | 5.05     |
+| 36345076 | 2023 Feb 1       | Prevalence of vision impairment among adults without PN                   | 1.29           | 1.04     | 1.60     |
+| 36345076 | 2023 Feb 1       | Association of PN with vision impairment overall (OR)                     | 1.48           | 1.03     | 2.13     |
+| 36345076 | 2023 Feb 1       | Association of PN with vision impairment among adults without diabetes (OR)| 1.80           | 1.17     | 2.77     |
+| 36345076 | 2023 Feb 1       | Prevalence of hearing impairment among adults with PN                     | 26.5           | 20.4     | 33.7     |
+| 36345076 | 2023 Feb 1       | Prevalence of hearing impairment among adults without PN                  | 14.2           | 12.4     | 16.3     |
+| 36345076 | 2023 Feb 1       | Association of PN with moderate/severe hearing impairment overall (OR)    | 2.55           | 1.40     | 4.64     |
+| 36345076 | 2023 Feb 1       | Association of PN with moderate/severe hearing impairment among adults without diabetes (OR) | 3.26   | 1.80     | 5.91     |
