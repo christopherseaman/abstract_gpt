@@ -71,7 +71,7 @@ This regex is tailored to extract numbers associated with a 95% confidence inter
 - **Implement Error Handling:** Add try-except blocks to manage exceptions, ensuring the script can handle unexpected issues gracefully.
 - **Increase Flexibility:** Allow directory and output file paths to be parameters, enhancing the script's usability across different environments and use cases.
 
-## Alternative Approach - NLP using ChatGPT via API
+## Alternative Approach - NLP using OpenAI's API
 Included is an example of how this could work in `extract_openai.py`.
 
 ### Code Summary
