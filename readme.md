@@ -84,7 +84,7 @@ It is not possible to craft RegEx clever enough to capture every possible manner
 ### Steps Left to Operationalize
 1. **API Key Config** Add your own openai API key to the file `dot.env` (see `dot.env.example` for format)
 2. **Abstract Handling:** Update the code to iterate over abstracts, rather than using a single hard-coded example
-3. **One-Shot/Multi-Shot:** *(OPTIONAL)* If model responses are not sufficiently accurate, you can give examples of prompts (abstracts) and responses (PMID + CI's) as a form of prompt engineering. 
+3. **Prompt Engineering:** *(OPTIONAL)* If model responses are not sufficiently accurate, you can give examples of prompts (abstracts) and responses (PMID + CI's) as a form of prompt engineering. This is generally referred to as *few-shot learning*.
 4. **Storing Output** Output to a csv file instead of stdout
 
 ### Example Output
