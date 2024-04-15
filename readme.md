@@ -73,7 +73,7 @@ This regex is tailored to extract numbers associated with a 95% confidence inter
 
 ## Alternative Approach - NLP using OpenAI's API
 
-It is not possible to craft RegEx clever enough to capture every possible manner of expressing confidence intervals. Instead, you could use a pre-trained large language model combined with structured output constraints. Included is an example of how this could work in `extract_openai.py`.
+It is not possible to craft RegEx clever enough to capture every possible manner of expressing confidence intervals. Instead, you could use a pre-trained large language model combined with structured output constraints. Included is an example of how this could work in [`extract_openai.py`](extract.openai.py).
 
 ### Code Summary
 1. **Setup:** Loads libraries and API key from file `dot.env`
@@ -82,7 +82,7 @@ It is not possible to craft RegEx clever enough to capture every possible manner
 4. **Response Handling:** Parses the response to output the PMID, date, metric, point estimate, CI lower, and CI upper bounds
 
 ### Steps Left to Operationalize
-1. **API Key Config** Add your own openai API key to the file `dot.env` (see `dot.env.example` for format)
+1. **API Key Config** Add your own openai API key to the file `dot.env` (see [`dot.env.example`](dot.env.example) for format)
 2. **Abstract Handling:** Update the code to iterate over abstracts, rather than using a single hard-coded example
 3. **Prompt Engineering:** *(OPTIONAL)* If model responses are not sufficiently accurate, you can give examples of prompts (abstracts) and responses (PMID + CI's) as a form of prompt engineering. This is generally referred to as *few-shot learning*.
 4. **Storing Output** Output to a csv file instead of stdout
