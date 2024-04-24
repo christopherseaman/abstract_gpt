@@ -1,0 +1,39 @@
+1. Epidemiology. 2020 Nov;31(6):788-795. doi: 10.1097/EDE.0000000000001255.
+
+Modeling Desert Dust Exposures in Epidemiologic Short-term Health Effects 
+Studies.
+
+Tobías A(1), Stafoggia M(2).
+
+Author information:
+(1)From the Institute of Environmental Assessment and Water Research (IDAEA), 
+Spanish Council for Scientific Research (CSIC), Barcelona, Spain.
+(2)Department of Epidemiology, Lazio Regional Health Service/ASL Roma 1, Rome, 
+Italy.
+
+BACKGROUND: Desert dust is assumed to have substantial adverse effects on human 
+health. However, the epidemiologic evidence is still inconsistent, mainly 
+because previous studies used different metrics for dust exposure and its 
+corresponding epidemiologic analysis. We aim to provide a standardized approach 
+to the methodology for evaluating the short-term health effects of desert dust.
+METHODS: We reviewed the methods commonly used for dust exposure assessment, 
+from use of a binary metric for the occurrence of desert dust advections to a 
+continuous one for quantifying particulate matter attributable to desert dust. 
+We presented alternative time-series Poisson regression models to evaluate the 
+dust exposure-mortality association, from the underlying epidemiological and 
+policy-relevant questions. A set of practical examples, using a real dataset 
+from Rome, Italy, illustrate the different modeling approaches.
+RESULTS: We estimate substantial effects of desert dust episodes and particulate 
+matter with diameter <10 μm (PM10) on daily mortality. The estimated effect of 
+non-desert PM10 was 1.8% (95% confidence interval [CI] = 0.4, 3.2) for a 10 μg/m 
+rise of PM10 at lag 0 for dust days, 0.4% (95% CI = -0.1, 0.8) for non-dust 
+days, and 0.6% (95% CI = -0.5, 2.1) for desert PM10.
+CONCLUSION: The standardized modeling approach we propose could be applicable 
+elsewhere, in and near hot spots, which could lead to more consistent evidence 
+on the health effects of desert dust from future studies.
+
+DOI: 10.1097/EDE.0000000000001255
+PMCID: PMC7523576
+PMID: 33003150 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.

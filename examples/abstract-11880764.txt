@@ -1,0 +1,32 @@
+1. Epidemiology. 2002 Mar;13(2):216-23. doi: 10.1097/00001648-200203000-00018.
+
+Dietary and adipose tissue gamma-tocopherol and risk of myocardial infarction.
+
+El-Sohemy A(1), Baylin A, Spiegelman D, Ascherio A, Campos H.
+
+Author information:
+(1)Department of Nutrition, Harvard School of Public Health, Boston, 
+Massachusetts 02115, USA.
+
+BACKGROUND: Gamma-tocopherol, the most abundant form of dietary vitamin E, may 
+lower the risk of coronary heart disease.
+METHODS: We investigated whether dietary and adipose tissue gamma-tocopherol are 
+associated with myocardial infarction (MI) in 475 survivors of a first MI and 
+479 controls from a population-based study carried out between 1994 and 1998 in 
+Costa Rica. Dietary intake was assessed with a validated food-frequency 
+questionnaire and an adipose tissue sample. Conditional logistic regression was 
+used to calculate odds ratios (OR) and 95% confidence intervals (CI).
+RESULTS: Subjects in the highest quintile of dietary gamma-tocopherol had a 
+lower risk of MI compared with those in the lowest quintile (OR = 0.76; 95% CI = 
+0.50-1.17, P = 0.02 for trend). This trend was no longer statistically 
+substantial in multivariate analysis (P = 0.44). A weak association was found 
+for adipose tissue gamma-tocopherol in univariate (OR = 1.46; 95% CI = 
+0.94-2.27) and multivariate (OR = 1.31; 95% CI = 0.62-2.76) models. A 
+substantial inverse association with MI was found for total dietary vitamin E 
+whether supplement users were included or excluded (P = 0.01 and 0.05 for trend, 
+respectively).
+CONCLUSION: These data suggest that gamma-tocopherol does not protect against 
+nonfatal MI.
+
+DOI: 10.1097/00001648-200203000-00018
+PMID: 11880764 [Indexed for MEDLINE]

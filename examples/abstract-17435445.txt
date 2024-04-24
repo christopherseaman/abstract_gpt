@@ -1,0 +1,39 @@
+1. Epidemiology. 2007 May;18(3):356-61. doi: 10.1097/01.ede.0000259986.85239.87.
+
+Maternal stressful life events and risks of birth defects.
+
+Carmichael SL(1), Shaw GM, Yang W, Abrams B, Lammer EJ.
+
+Author information:
+(1)March of Dimes Birth Defect Foundation, California Department of Health 
+Services, California Birth Defects Monitoring Program, Berkeley, CA, USA. 
+sca@cbdmp.org
+
+BACKGROUND: Several previous studies suggest that maternal stress may be 
+associated with increased risk of certain birth defects. This study examined the 
+association of maternal stressful life events with risks of several birth 
+defects.
+METHODS: The data are from a recent, population-based case-control study. 
+Telephone interviews were conducted with 1355 eligible case mothers and 700 
+control mothers. Maternal stress was measured by responses to 18 yes/no 
+questions about life events that occurred from 2 months before through 2 months 
+after conception.
+RESULTS: An increase in the stressful life events index (ie, number of "yes" 
+responses to the 18 life-events questions) was associated with increased risk of 
+cleft palate, cleft lip with or without cleft palate, d-transposition of the 
+great arteries, and tetralogy of Fallot, after adjustment for maternal 
+race-ethnicity, education, obesity, age, smoking, drinking, intake of folic 
+acid-containing supplements, neighborhood crime, and food insecurity. For 
+example, the odds ratio for a 3-unit change in the stress index was 1.45 (95% 
+confidence interval = 1.03-2.06) for cleft palate. Increased stress was 
+associated with an increased risk of spina bifida and anencephaly particularly 
+among women who did not take folic acid supplements. A 3-unit change in stress 
+was associated with a 2.35-fold increased risk of anencephaly among women who 
+did not take supplements (CI =1.47-3.77) and a 1.42-fold increased risk among 
+women who did (CI = 0.89-2.25).
+CONCLUSION: The adverse health effects of stress may include increased risks of 
+certain birth defects.
+
+DOI: 10.1097/01.ede.0000259986.85239.87
+PMCID: PMC2094125
+PMID: 17435445 [Indexed for MEDLINE]

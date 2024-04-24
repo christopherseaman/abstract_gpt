@@ -2,3 +2,4 @@
 /.venv
 output.csv
 dot.env
+automated_extraction/

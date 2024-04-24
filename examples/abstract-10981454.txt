@@ -1,0 +1,33 @@
+1. Am J Epidemiol. 2000 Sep 1;152(5):420-3. doi: 10.1093/aje/152.5.420.
+
+Plasma fibrinogen and coronary heart disease in urban Japanese.
+
+Sato S(1), Nakamura M, Iida M, Naito Y, Kitamura A, Okamura T, Nakagawa Y, Imano 
+H, Kiyama M, Iso H, Shimamoto T, Komachi Y.
+
+Author information:
+(1)Department of Epidemiology and Mass Examination, Osaka Medical Center for 
+Cancer and Cardiovascular Diseases, Japan.
+
+There is little information on the relation of plasma fibrinogen concentration 
+to the risk of coronary heart disease in Asians, including Japanese, whose 
+plasma fibrinogen concentration has been reported to be low by Western 
+standards. The authors conducted a prospective study with 4.8 years of follow-up 
+of 11,977 men and women aged 21-89 years (mean value of fibrinogen = 267 mg/dl) 
+living or working in Osaka, Japan, in 1990-1996 to examine the relation of 
+plasma fibrinogen with the incidence of coronary heart disease (myocardial 
+infarction and angina pectoris). Mean fibrinogen concentration was 293.6 mg/dl 
+for men who developed coronary heart disease (n = 35) compared with 261.6 mg/dl 
+for men free of coronary heart disease (n = 8,094; difference, p < 0.01), and 
+355.2 mg/dl for women who developed coronary heart disease (n = 6) compared with 
+276.8 mg/dl for women free of coronary heart disease (n = 3,842; difference, p < 
+0.01). With a Cox proportional hazards model to adjust for cardiovascular risk 
+factors, the relative risk for the highest fibrinogen quartile (> or =295 mg/dl) 
+compared with the lowest (<228 mg/dl) was 4.8 (95% confidence interval: 1.4, 
+16.8, p = 0.01) for coronary heart disease, and 3.8 (95% confidence interval: 
+1.1, 13.4, p = 0.04) for myocardial infarction. Plasma fibrinogen is useful to 
+predict the risk of coronary heart disease among urban Japanese, whose mean 
+plasma fibrinogen is relatively low.
+
+DOI: 10.1093/aje/152.5.420
+PMID: 10981454 [Indexed for MEDLINE]

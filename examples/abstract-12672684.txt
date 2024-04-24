@@ -1,0 +1,37 @@
+1. Am J Epidemiol. 2003 Apr 1;157(7):643-51. doi: 10.1093/aje/kwg033.
+
+Randomized trial of financial incentives and delivery methods for improving 
+response to a mailed questionnaire.
+
+Doody MM(1), Sigurdson AS, Kampa D, Chimes K, Alexander BH, Ron E, Tarone RE, 
+Linet MS.
+
+Author information:
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institutes of Health, Department of Health and Human Services, 
+Bethesda, MD 20892, USA. doodym@exchange.nih.gov
+
+In a follow-up study, only 64% of 126,628 US radiologic technologists completed 
+a questionnaire during 1994-1997 after two mailings. The authors conducted a 
+randomized trial of financial incentives and delivery methods to identify the 
+least costly approach for increasing overall participation. They randomly 
+selected nine samples of 300 nonresponders each to receive combinations of no, 
+1.00 US dollar, 2.00 US dollars, and 5.00 US dollars cash or check incentives 
+delivered by first-class mail or Federal Express. Federal Express delivery did 
+not achieve greater participation than first-class mail (23.2% vs. 23.7%). In 
+analyses pooled across delivery methods, the response was significantly greater 
+for the 2.00 US dollar bill (28.9%, 95% confidence interval (CI): 25.2, 32.7; p 
+< 0.0001), 5.00 US dollars check (27.5%, 95% CI: 22.5, 33.0; p = 0.0001), 1.00 
+US dollar bill (24.6%, 95% CI: 21.2, 28.3; p = 0.0007), and 2.00 US dollars 
+check (21.8%, 95% CI: 18.5, 25.3; p = 0.02) compared with no incentive (16.6%, 
+95% CI: 13.7, 19.9). The response increased significantly with increasing 
+incentive amounts from 0.00 to 2.00 US dollars cash (p trend < 0.0001). The 2.00 
+US dollar bill achieved a 30% greater response than did a 2.00 US dollars check 
+(p = 0.005). For incentives sent by first-class mail, the 5.00 US dollars check 
+yielded 30% greater participation than did the 2.00 US dollars check (p = 0.07). 
+A 1.00 US dollar bill, chosen instead of the 2.00 US dollars bill because of 
+substantially lower overall cost and sent by first-class mail to the remaining 
+42,717 nonresponders, increased response from 64% to 72%.
+
+DOI: 10.1093/aje/kwg033
+PMID: 12672684 [Indexed for MEDLINE]

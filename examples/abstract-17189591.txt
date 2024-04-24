@@ -1,0 +1,32 @@
+1. Am J Epidemiol. 2007 Apr 1;165(7):756-61. doi: 10.1093/aje/kwk064. Epub 2006 Dec 
+22.
+
+The impact of birth weight on infectious disease hospitalization in childhood.
+
+Hviid A(1), Melbye M.
+
+Author information:
+(1)Department of Epidemiology Research, Statens Serum Institut, Copenhagen, 
+Denmark. aii@ssi.dk
+
+Low birth weight, a result of preterm birth or intrauterine growth restriction, 
+is a well-established indicator of survival in childhood. However, corresponding 
+epidemiologic studies of the association between low birth weight and morbidity 
+from infections throughout childhood are sparse. The authors evaluated the 
+relation between birth weight and infectious diseases throughout childhood in a 
+population-based cohort study comprising all children born in Denmark from 1977 
+through 2004 (n = 1.7 million). Information on birth weight, gestational age, 
+and potential confounding variables was linked to the children in the cohort, 
+together with information on hospitalization with infectious disease. Poisson 
+regression yielded rate ratios of hospitalization according to birth weight. The 
+authors found that birth weight was inversely associated with risk of infectious 
+disease hospitalization; among children aged 0-14 years, the risk of 
+hospitalization increased 9% for each 500-g reduction in birth weight (increase 
+in rate ratio = 1.09, 95% confidence interval: 1.09, 1.11). The effect was found 
+to peak in infancy and to persist until 10 years of age. It was present also in 
+children born at term (37-41 weeks of gestation). The present study is the first 
+to demonstrate the measurable impact of birth weight on infectious diseases 
+throughout childhood.
+
+DOI: 10.1093/aje/kwk064
+PMID: 17189591 [Indexed for MEDLINE]
