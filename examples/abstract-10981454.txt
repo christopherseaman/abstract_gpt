@@ -1,3 +1,5 @@
+---------------------------------------------------
+
 1. Am J Epidemiol. 2000 Sep 1;152(5):420-3. doi: 10.1093/aje/152.5.420.
 
 Plasma fibrinogen and coronary heart disease in urban Japanese.
@@ -31,3 +33,14 @@ plasma fibrinogen is relatively low.
 
 DOI: 10.1093/aje/152.5.420
 PMID: 10981454 [Indexed for MEDLINE]
+
+# Data from this abstract
+
+PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
+10981454,2000 Sep 1 ,,,,,,0.01,Less
+10981454,2000 Sep 1 ,,,,,,0.01,Less
+10981454,2000 Sep 1 ,4.8,1.4,16.8,TRUE,FALSE,0.01,Equal
+10981454,2000 Sep 1 ,3.8,1.1,13.4,TRUE,FALSE,0.04,Equal
+
+---------------------------------------------------
+

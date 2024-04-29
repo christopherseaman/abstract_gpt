@@ -37,3 +37,13 @@ PMCID: PMC7523576
 PMID: 33003150 [Indexed for MEDLINE]
 
 Conflict of interest statement: The authors report no conflicts of interest.
+
+# Data from this abstract
+
+PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
+33003150,2020 Nov,1.8,0.4,3.2,FALSE,FALSE,,
+33003150,2020 Nov,0.4,-0.1,0.8,FALSE,FALSE,,
+33003150,2020 Nov,0.6,-0.5,2.1,FALSE,FALSE,,
+
+---------------------------------------------------
+

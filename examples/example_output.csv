@@ -1,4 +1,6 @@
-﻿PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
+﻿Example output:
+
+PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
 11880764,2002,0.76,0.5,1.17,TRUE,FALSE,,
 11880764,2002,,,,,,0.02,Equal
 11880764,2002,,,,,,0.44,Equal
@@ -29,3 +31,6 @@
 ,,,,,,,,
 ,,,,,,,,
 ,,,,, ,,,
+
+--------------------------------------------
+
