@@ -30,11 +30,3 @@ throughout childhood.
 
 DOI: 10.1093/aje/kwk064
 PMID: 17189591 [Indexed for MEDLINE]
-
-# Data from this abstract
-
-PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
-17189591,2007 Apr 1,1.09,1.09,1.11,TRUE,FALSE,,
-
----------------------------------------------------
-

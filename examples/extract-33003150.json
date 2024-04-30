@@ -1,0 +1,36 @@
+{
+    "PMID": "33003150",
+    "PublicationDate": "2020 Nov",
+    "Author": "Tobías A",
+    "Journal": "Epidemiology",
+    "StudyDesign": "Review of methods",
+    "Measures": [
+        {
+            "Metric": "Effect of non-desert PM10 on daily mortality for dust days",
+            "MeasureType": "Percentage Increase",
+            "PValue": null,
+            "PointEstimate": 1.8,
+            "CILower": 0.4,
+            "CIUpper": 3.2,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Effect of non-desert PM10 on daily mortality for non-dust days",
+            "MeasureType": "Percentage Increase",
+            "PValue": null,
+            "PointEstimate": 0.4,
+            "CILower": -0.1,
+            "CIUpper": 0.8,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Effect of desert PM10 on daily mortality",
+            "MeasureType": "Percentage Increase",
+            "PValue": null,
+            "PointEstimate": 0.6,
+            "CILower": -0.5,
+            "CIUpper": 2.1,
+            "ConfidenceLevel": "95%"
+        }
+    ]
+}

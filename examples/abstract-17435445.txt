@@ -37,13 +37,3 @@ certain birth defects.
 DOI: 10.1097/01.ede.0000259986.85239.87
 PMCID: PMC2094125
 PMID: 17435445 [Indexed for MEDLINE]
-
-# Data from this abstract
-
-PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
-17435445,2007 May,1.45,1.03,2.06,TRUE,FALSE,,
-17435445,2007 May,2.35,1.47,3.77,TRUE,FALSE,,
-17435445,2007 May,1.42,0.89,2.25,TRUE,FALSE,,
-
----------------------------------------------------
-

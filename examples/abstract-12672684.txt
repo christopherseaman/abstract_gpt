@@ -35,17 +35,3 @@ substantially lower overall cost and sent by first-class mail to the remaining
 
 DOI: 10.1093/aje/kwg033
 PMID: 12672684 [Indexed for MEDLINE]
-
-# Data from this abstract
-
-PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
-12672684,2003 Apr 1,28.9,25.2,32.7,FALSE,FALSE,0.0001,Less
-12672684,2003 Apr 1,27.5,22.5,33,FALSE,FALSE,0.0001,Equal
-12672684,2003 Apr 1,24.6,21.2,28.3,FALSE,FALSE,0.0007,Equal
-12672684,2003 Apr 1,21.8,18.5,25.3,FALSE,FALSE,0.02,Equal
-12672684,2003 Apr 1,16.6,13.7,19.9,FALSE,FALSE,,
-12672684,2003 Apr 1,,,,,,0.005,Equal
-12672684,2003 Apr 1,,,,,,0.07,Equal
-
----------------------------------------------------
-

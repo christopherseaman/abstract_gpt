@@ -1,0 +1,18 @@
+{
+    "PMID": "17189591",
+    "PublicationDate": "2007 Apr 1",
+    "Author": "Hviid A",
+    "Journal": "Am J Epidemiol",
+    "StudyDesign": "Population-based cohort study",
+    "Measures": [
+        {
+            "Metric": "Risk of infectious disease hospitalization associated with each 500-g reduction in birth weight",
+            "MeasureType": "Rate Ratio",
+            "PValue": null,
+            "PointEstimate": 1.09,
+            "CILower": 1.09,
+            "CIUpper": 1.11,
+            "ConfidenceLevel": "95%"
+        }
+    ]
+}

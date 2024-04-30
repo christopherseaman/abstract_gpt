@@ -30,17 +30,3 @@ nonfatal MI.
 
 DOI: 10.1097/00001648-200203000-00018
 PMID: 11880764 [Indexed for MEDLINE]
-
-# Data from this abstract
-
-PMID,Date,Estimate,Lower,Upper,Ratio,Beta,Pvalue,LessorEqual
-11880764,2002,0.76,0.5,1.17,TRUE,FALSE,,
-11880764,2002,,,,,,0.02,Equal
-11880764,2002,,,,,,0.44,Equal
-11880764,2002,1.46,0.94,2.27,TRUE,FALSE,,
-11880764,2002,1.31,0.62,2.76,TRUE,FALSE,,
-11880764,2002,,,,,,0.01,Equal
-11880764,2002,,,,,,0.05,Equal
-
----------------------------------------------------
-

@@ -1,5 +1,8 @@
-/.DS_Store
+.DS_Store
 /.venv
 output.csv
 dot.env
 automated_extraction/
+abstracts/
+extracted_abstracts/
+extracted_data.tsv

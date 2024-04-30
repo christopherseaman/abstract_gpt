@@ -1,0 +1,54 @@
+{
+    "PMID": "11880764",
+    "PublicationDate": "2002 Mar",
+    "Author": "El-Sohemy A",
+    "Journal": "Epidemiology",
+    "StudyDesign": "Population-based study",
+    "Measures": [
+        {
+            "Metric": "Risk of myocardial infarction for highest quintile of dietary gamma-tocopherol",
+            "MeasureType": "Odds Ratio",
+            "PValue": "0.02",
+            "PointEstimate": 0.76,
+            "CILower": 0.50,
+            "CIUpper": 1.17,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Association of adipose tissue gamma-tocopherol with myocardial infarction in univariate model",
+            "MeasureType": "Odds Ratio",
+            "PValue": null,
+            "PointEstimate": 1.46,
+            "CILower": 0.94,
+            "CIUpper": 2.27,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Association of adipose tissue gamma-tocopherol with myocardial infarction in multivariate model",
+            "MeasureType": "Odds Ratio",
+            "PValue": null,
+            "PointEstimate": 1.31,
+            "CILower": 0.62,
+            "CIUpper": 2.76,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Inverse association of total dietary vitamin E with myocardial infarction including supplement users",
+            "MeasureType": "Trend",
+            "PValue": "0.01",
+            "PointEstimate": null,
+            "CILower": null,
+            "CIUpper": null,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Inverse association of total dietary vitamin E with myocardial infarction excluding supplement users",
+            "MeasureType": "Trend",
+            "PValue": "0.05",
+            "PointEstimate": null,
+            "CILower": null,
+            "CIUpper": null,
+            "ConfidenceLevel": "95%"
+        }
+    ]
+}

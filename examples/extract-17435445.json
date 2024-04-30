@@ -1,0 +1,36 @@
+{
+    "PMID": "17435445",
+    "PublicationDate": "2007 May",
+    "Author": "Carmichael SL",
+    "Journal": "Epidemiology",
+    "StudyDesign": "Population-based case-control study",
+    "Measures": [
+        {
+            "Metric": "Odds ratio for cleft palate associated with a 3-unit change in the stress index",
+            "MeasureType": "Odds Ratio",
+            "PValue": null,
+            "PointEstimate": 1.45,
+            "CILower": 1.03,
+            "CIUpper": 2.06,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Odds ratio for anencephaly among women who did not take folic acid supplements associated with a 3-unit change in the stress index",
+            "MeasureType": "Odds Ratio",
+            "PValue": null,
+            "PointEstimate": 2.35,
+            "CILower": 1.47,
+            "CIUpper": 3.77,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Odds ratio for anencephaly among women who took folic acid supplements associated with a 3-unit change in the stress index",
+            "MeasureType": "Odds Ratio",
+            "PValue": null,
+            "PointEstimate": 1.42,
+            "CILower": 0.89,
+            "CIUpper": 2.25,
+            "ConfidenceLevel": "95%"
+        }
+    ]
+}

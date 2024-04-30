@@ -1,0 +1,54 @@
+{
+    "PMID": "12672684",
+    "PublicationDate": "2003 Apr 1",
+    "Author": "Doody MM",
+    "Journal": "Am J Epidemiol",
+    "StudyDesign": "Randomized trial",
+    "Measures": [
+        {
+            "Metric": "Response rate for no incentive",
+            "MeasureType": "Response Rate",
+            "PValue": null,
+            "PointEstimate": 16.6,
+            "CILower": 13.7,
+            "CIUpper": 19.9,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Response rate for 1.00 US dollar bill",
+            "MeasureType": "Response Rate",
+            "PValue": "0.0007",
+            "PointEstimate": 24.6,
+            "CILower": 21.2,
+            "CIUpper": 28.3,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Response rate for 2.00 US dollar bill",
+            "MeasureType": "Response Rate",
+            "PValue": "<0.0001",
+            "PointEstimate": 28.9,
+            "CILower": 25.2,
+            "CIUpper": 32.7,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Response rate for 5.00 US dollars check",
+            "MeasureType": "Response Rate",
+            "PValue": "0.0001",
+            "PointEstimate": 27.5,
+            "CILower": 22.5,
+            "CIUpper": 33.0,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Response rate for 2.00 US dollars check",
+            "MeasureType": "Response Rate",
+            "PValue": "0.02",
+            "PointEstimate": 21.8,
+            "CILower": 18.5,
+            "CIUpper": 25.3,
+            "ConfidenceLevel": "95%"
+        }
+    ]
+}

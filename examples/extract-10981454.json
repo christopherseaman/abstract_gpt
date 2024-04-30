@@ -1,0 +1,45 @@
+{
+    "PMID": "10981454",
+    "PublicationDate": "2000 Sep 1",
+    "Author": "Sato S",
+    "Journal": "Am J Epidemiol",
+    "StudyDesign": "Prospective study",
+    "Measures": [
+        {
+            "Metric": "Mean fibrinogen concentration for men with CHD",
+            "MeasureType": "Mean concentration",
+            "PValue": "<0.01",
+            "PointEstimate": 293.6,
+            "CILower": null,
+            "CIUpper": null,
+            "ConfidenceLevel": "Not specified"
+        },
+        {
+            "Metric": "Mean fibrinogen concentration for women with CHD",
+            "MeasureType": "Mean concentration",
+            "PValue": "<0.01",
+            "PointEstimate": 355.2,
+            "CILower": null,
+            "CIUpper": null,
+            "ConfidenceLevel": "Not specified"
+        },
+        {
+            "Metric": "Relative risk for CHD in highest fibrinogen quartile",
+            "MeasureType": "Relative Risk",
+            "PValue": "0.01",
+            "PointEstimate": 4.8,
+            "CILower": 1.4,
+            "CIUpper": 16.8,
+            "ConfidenceLevel": "95%"
+        },
+        {
+            "Metric": "Relative risk for myocardial infarction in highest fibrinogen quartile",
+            "MeasureType": "Relative Risk",
+            "PValue": "0.04",
+            "PointEstimate": 3.8,
+            "CILower": 1.1,
+            "CIUpper": 13.4,
+            "ConfidenceLevel": "95%"
+        }
+    ]
+}
