@@ -20,9 +20,6 @@ else:
 extracts_dir = 'extracted'
 output_tsv = 'extracted_data.tsv'
 
-# Construct the path for extracted data
-os.makedirs(os.path.join(extracts_dir, abstracts_dir), exist_ok=True)
-
 # Define the function and how it should be structured within the API call
 tools = [
     {
@@ -35,7 +32,7 @@ tools = [
                 "properties": {
                     "PMID": {"type": "string", "description": "The PubMed ID from the abstract"},
                     "PublicationDate": {"type": "string", "description": "The publication date from the abstract"},
-                    "Author": {"type": "string", "description": "The lead author of the publication"},
+                    "Author": {"type": "string", "description": "The first author of the publication"},
                     "Journal": {"type": "string", "description": "The journal in which the publication appeared"},
                     "StudyDesign": {"type": "string", "description": "The study design of the publication; e.g., randomized controlled trial, cohort study, case-control study, etc."},
                     "Measures": {
@@ -75,13 +72,13 @@ def extract_from_abstract(PMID, PublicationDate, author, journal, study_design, 
 
 # API call to GPT-3.5 Turbo with the function calling
 message_template=[
-        {"role": "system", "content": "Extract structured data from abstracts. Must include PMID, PublicationDate, Author, Journal, and Measures. Each measure in Measures must include Metric, MeasureType, and (PValue) and/or (CIUpper AND CILower)."},
+        {"role": "system", "content": "Extract structured data from abstracts. Must include PMID, PublicationDate, Lead Author, Journal, and Measures. Each measure in Measures must include Metric, MeasureType, and (PValue) and/or (CIUpper AND CILower)."},
     ]
 
 # Build the few-shot learning prompt
 print("Building few-shot learning prompt...")
-files = os.listdir(examples_dir)
-for file in files:
+example_files = os.listdir(examples_dir)
+for file in example_files:
     if file.endswith('.txt'):  # Identify abstract text files
         abstract_path = os.path.join(examples_dir, file)
         extract_path = os.path.join(examples_dir, file.replace('abstract', 'extract').replace('.txt', '.json'))
@@ -166,65 +163,62 @@ def extract_abstract(abstract_text, message_template):
                 })
     return rows
 
-# List all abstract text files
-abstract_files = [f for f in os.listdir(abstracts_dir) if f.endswith('.txt')]
-
 # Iterate over each abstract file
-for abstract_file in abstract_files:
-    abstract_path = os.path.join(abstracts_dir, abstract_file)
-    
-    # Set the extract path
-    extract_path = os.path.join(extracts_dir, abstract_path.replace('.txt', '.tsv'))
+for root, dirs, files in os.walk(abstracts_dir):
+    for file in files:
+        if file.endswith('.txt'):
+            abstract_path = os.path.join(root, file)
+            extract_path = os.path.join(extracts_dir, file.replace('.txt', '.json'))
 
-    print(f'Extracting data for: {abstract_path}')
-    # Check if extraction already exists
-    if not os.path.exists(extract_path):
-        # Read the abstract text
-        with open(abstract_path, 'r') as file:
-            abstract_text = file.read()
-        
-        # Extract data
-        extracted_data = extract_abstract(abstract_text, message_template)
-        
-        # Save the extracted data as JSON
-        with open(extract_path, 'w') as file:
-            json.dump(extracted_data, file, indent=4)
-        print(f'Extraction saved for: {abstract_path}')
-    else:
-        print(f'Extraction already exists for: {abstract_path}')
+            # Ensure the directory exists before saving
+            os.makedirs(os.path.dirname(extract_path), exist_ok=True)
 
+            print(f"Extracting data for: {abstract_path}")
+            if not os.path.exists(extract_path):
+                # Read and process the abstract
+                with open(abstract_path, 'r') as f:
+                    abstract_text = f.read()
+                extracted_data = extract_abstract(abstract_text, message_template)
+
+                # Save the extracted data
+                with open(extract_path, 'w') as f:
+                    json.dump(extracted_data, f, indent=4)
+                print(f"Extraction saved to: {extract_path}")
+            else:
+                print(f"Extraction exists  : {extract_path}")
 
 # Print the extracted data as extracted_data.tsv in the following format:
 # PMID, Date, Author, Journal, Study_Design, Point Estimate, CI Lower, CI Upper, P-Value, Confidence_Level, Measure_Type, Metric
 # One row for each measure extracted from the abstracts
 print("Converting extracted data to TSV file...")
+
 headers = ['PMID', 'Date', 'Author', 'Journal', 'Study_Design', 'Point_Estimate', 'CI_Lower', 'CI_Upper', 'P_Value', 'Confidence_Level', 'Measure_Type', 'Metric']
 with open(output_tsv, 'w', newline='', encoding='utf-8') as tsvfile:
     writer = csv.DictWriter(tsvfile, fieldnames=headers, delimiter='\t')
     writer.writeheader()
     
     # Walk through each file in the extracts directory
-    for filename in os.listdir(extracts_dir):
-        if filename.endswith('.json'):
-            filepath = os.path.join(extracts_dir, filename)
-            with open(filepath, 'r') as file:
-                data = json.load(file)
-                # Assuming data is a list of dictionaries
-                for item in data:
-                    # Flatten the data structure if necessary or adjust according to your JSON structure
-                    for measure in item['Measures']:
-                        writer.writerow({
-                            'PMID': item['PMID'],
-                            'Date': item['Date'],
-                            'Author': item['Author'],
-                            'Journal': item['Journal'],
-                            'Study_Design': item['Study_Design'],
-                            'Point_Estimate': measure['PointEstimate'],
-                            'CI_Lower': measure['CILower'],
-                            'CI_Upper': measure['CIUpper'],
-                            'P_Value': measure['PValue'],
-                            'Confidence_Level': measure['ConfidenceLevel'],
-                            'Measure_Type': measure['MeasureType'],
-                            'Metric': measure['Metric']
-                        })
-                        
+    for root, dirs, files in os.walk(extracts_dir):
+        for filename in files:
+            if filename.endswith('.json'):
+                filepath = os.path.join(root, filename)
+                with open(filepath, 'r') as f:
+                    data = json.load(f)
+                    for item in data:
+                        for measure in item['Measures']:
+                            writer.writerow({
+                                'PMID': item['PMID'],
+                                'Date': item['Date'],
+                                'Author': item['Author'],
+                                'Journal': item['Journal'],
+                                'Study_Design': item.get('Study_Design', None),
+                                'Point_Estimate': measure.get('PointEstimate', None),
+                                'CI_Lower': measure.get('CILower', None),
+                                'CI_Upper': measure.get('CIUpper', None),
+                                'P_Value': measure.get('PValue', None),
+                                'Confidence_Level': measure.get('ConfidenceLevel', None),
+                                'Measure_Type': measure['MeasureType'],
+                                'Metric': measure['Metric']
+                            })
+
+print(f"Data conversion to TSV completed. Check {output_tsv} for the output.")
