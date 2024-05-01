@@ -168,7 +168,8 @@ for root, dirs, files in os.walk(abstracts_dir):
     for file in files:
         if file.endswith('.txt'):
             abstract_path = os.path.join(root, file)
-            extract_path = os.path.join(extracts_dir, file.replace('.txt', '.json'))
+            extract_rel_path = os.path.relpath(abstract_path, abstracts_dir)
+            extract_path = os.path.join(extracts_dir, extract_rel_path.replace('.txt', '.json'))
 
             # Ensure the directory exists before saving
             os.makedirs(os.path.dirname(extract_path), exist_ok=True)
